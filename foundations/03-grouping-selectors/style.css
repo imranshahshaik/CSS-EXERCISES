@@ -1,0 +1,33 @@
+
+body{
+    display: flex;
+    height: 100vh;
+}
+button{
+    margin-right: 5px;
+    border: 2px solid rgb(71, 69, 69);
+}
+
+.first{
+    color: white;
+    font-size: large;
+    background-color: black;
+    
+}
+
+.second{
+    background-color: yellow;
+    font-weight: lighter;
+    font-size: large;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    background-color: white;
+    padding: 5px;
+    margin: auto;
+
+}
